@@ -1,2 +1,2 @@
-# asistente-en-python
-creación de un asistente usando el lenguaje python
+# practicas-en-python
+creación de diferentes practicas usando el lenguaje python
